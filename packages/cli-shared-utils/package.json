@@ -1,8 +1,8 @@
 {
-  "name": "@cj-demo/cli-shared-utils",
-  "version": "0.0.1-alpha.0",
+  "name": "@saiyanjing/cli-shared-utils",
+  "version": "0.0.0",
   "description": "> TODO: description",
-  "author": "陈靖 <jing.chen@xbongbong.com>",
+  "author": "chenjing0823",
   "homepage": "https://github.com/chenjing0823/learn-lerna#readme",
   "license": "MIT",
   "main": "lib/cli-shared-utils.js",
