@@ -1,6 +1,6 @@
 {
   "name": "@cj-demo/cli",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "陈靖 <jing.chen@xbongbong.com>",
   "homepage": "https://github.com/chenjing0823/learn-lerna#readme",
@@ -27,7 +27,7 @@
     "url": "https://github.com/chenjing0823/learn-lerna/issues"
   },
   "dependencies": {
-    "@cj-demo/cli-shared-utils": "^0.0.0",
+    "@cj-demo/cli-shared-utils": "^0.0.1",
     "chalk": "^5.0.0"
   }
 }
